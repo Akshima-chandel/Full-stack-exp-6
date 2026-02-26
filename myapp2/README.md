@@ -147,9 +147,12 @@ http://localhost:5173
 
 ## 🧠 Regex Used
 
-![succesful](https://github.com/ArnavMishra786/fullstack/blob/15eecb42027d76974812454e22f3d120221131a3/exp6/myapp2/ss/Screenshot%202026-02-23%20153520.png)
-![email error](https://github.com/ArnavMishra786/fullstack/blob/15eecb42027d76974812454e22f3d120221131a3/exp6/myapp2/ss/Screenshot%202026-02-23%20153613.png)
-![password error](https://github.com/ArnavMishra786/fullstack/blob/15eecb42027d76974812454e22f3d120221131a3/exp6/myapp2/ss/Screenshot%202026-02-23%20153630.png)
+![succesful]<img width="632" height="358" alt="Screenshot 2026-02-26 103837" src="https://github.com/user-attachments/assets/659feb30-bb1e-4033-be09-f772cb64af03" />
+
+![email error]<img width="1146" height="830" alt="Screenshot 2026-02-26 103720" src="https://github.com/user-attachments/assets/9d1662cb-7f9a-41bd-bd06-2361f35e402d" />
+
+![password error]<img width="743" height="680" alt="Screenshot 2026-02-26 104915" src="https://github.com/user-attachments/assets/e7098fa1-2777-4ed8-b772-3b4807ffaaf2" />
+
 
 
 
