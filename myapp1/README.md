@@ -82,5 +82,7 @@ npm run dev
 
 ---
 
-![page](https://github.com/ArnavMishra786/fullstack/blob/75274f7fba06d121b4329a1f225b07c26cb0bf0c/exp6/myapp1/ss/Screenshot%202026-02-20%20153008.png)
-![alert](https://github.com/ArnavMishra786/fullstack/blob/75274f7fba06d121b4329a1f225b07c26cb0bf0c/exp6/myapp1/ss/Screenshot%202026-02-20%20153023.png)
+![page]<img width="678" height="884" alt="Screenshot 2026-02-26 104138" src="https://github.com/user-attachments/assets/ea76110b-5dd7-457c-9d0e-c2b8ea3d1cb7" />
+
+![alert]<img width="767" height="984" alt="Screenshot 2026-02-26 104131" src="https://github.com/user-attachments/assets/454f8d35-bdc4-41cf-8f88-4b66da299e23" />
+
